@@ -1,3 +1,10 @@
+/*
+Sage Johnson
+Mobile App Dev - CS 3013
+Dr. Elliott Evans
+12 May 2025
+ */
+
 package com.example.movielist
 
 import android.content.Intent
